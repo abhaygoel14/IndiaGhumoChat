@@ -1,4 +1,11 @@
 # IndiaGhumoChat
+Project By:
+Abhay Goel(1906647): I have developed the IndiaGhumoChat website with the help of React,Redux and Firebase database and create a discord clone server type.
+Smriti Pandey(1906639): I have designed the UI/UX of the website using Css properties and Adobe Illustrator.
+
+Bot:
+Anupam Anand(1929137):I have done the debugging and adding extra features by deploying it.
+Maynak Dhama(1905853): I have made the command function and given functionality to make it user engaging.
 India Ghumo
 An application made to assist the travelling community and bring like minded people in one server through the use of Bot, built with React,Python ,Redux, Firebase Database, Javascript and CSS.
 
