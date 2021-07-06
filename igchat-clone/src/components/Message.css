@@ -1,0 +1,16 @@
+.message {
+    display: flex;
+    color: rgb(15, 15, 15);
+    align-items: center;
+    padding: 5px;
+  }
+  
+  .messageInfo {
+    margin-left: 20px;
+  }
+  
+  .MessageTime {
+    color: black;
+    margin-left: 20px;
+    font-size: x-small;
+  }

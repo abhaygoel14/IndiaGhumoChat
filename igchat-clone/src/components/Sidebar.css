@@ -1,0 +1,104 @@
+.sidebar {
+    display: flex;
+    flex-direction: column;
+    flex: 0.25;
+    height: 160vh;
+    background-color: #FCF8E8;
+  }
+  
+  .sidebar_above {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    background-color: #FCF8E8;
+    color: rgb(214, 45, 45);
+    border-bottom: 3px solid rgb(214, 45, 45);
+  }
+  
+  .channel{
+    flex: 1;
+  }
+  
+  .sidebar_add {
+    cursor: pointer;
+  }
+  .sidebar_add:hover {
+    color: grey;
+  }
+  
+  .channelHeader {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color: #FCF8E8;
+    color: black;
+  }
+  
+  .sidebar_header {
+    display: flex;
+    align-items: center;
+  }
+  
+  .voice_channel,
+  .sideProfile {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: gray;
+    background-color: #FCF8E8;
+    padding: 10px;
+    border-top: 1px solid rgb(214, 45, 45);
+  }
+  
+  .sideVoiceInfo {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .sideVoiceIcon{
+    color: #3b818d;
+  }
+  
+  .sideVoiceInfo > h3 {
+    color: #3b818d;
+  }
+  
+  .sideVoiceInfo > p {
+    font-size: smaller;
+  }
+  
+  .side_voiceIcon > .MuiSvgIcon-root {
+    padding: 10px;
+  }
+  
+  .sideProfileInfo {
+    flex: 1;
+    padding: 10px;
+  }
+  
+  .sideProfileInfo > h3 {
+    color: rgb(214, 45, 45);
+  }
+  
+  .sideProfileIcons > .MuiSvgIcon-root {
+    padding: 5px;
+  }
+  
+  .side_profileAvatar{
+    cursor: pointer;
+  }
+  
+  .channelList {
+    overflow: scroll;
+  }
+  
+  .channelList::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .channelList {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
