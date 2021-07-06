@@ -1,6 +1,9 @@
 # IndiaGhumoChat
 India Ghumo
 An application made to assist the travelling community and bring like minded people in one server through the use of Bot, built with React,Python ,Redux, Firebase Database, Javascript and CSS.
+
+PROJECT STATUS:
+We tried to host https://indiaghumochat.herokuapp.com/ but firebase could not get authenticate to heroku.
 Project Screen Shot(s)
 ![image](https://user-images.githubusercontent.com/78078088/124642944-13098980-deae-11eb-85ba-771ed450e04d.png)
 ![image](https://user-images.githubusercontent.com/78078088/124643185-67ad0480-deae-11eb-8006-1a7f027151bc.png)
@@ -23,6 +26,8 @@ npm test
 To Start Server:
 
 npm start
+
+Project successfully deployed in http://localhost:3000/ !!!
 
 BOT :
 Hustling here and there for hotels, transport, and food makes it very complicated. It makes everyone anxious about wasting money on such businesses again. To make this experience more fruitful, we also created a discord bot, where our members can ask for their queries. By doing so, it nullifies the stress and the doubts that make people have second thoughts.
