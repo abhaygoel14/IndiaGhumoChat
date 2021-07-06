@@ -1,0 +1,20 @@
+.sideChannelBar{
+    display: flex;
+}
+.sideChannelBar > h4 {
+    display: flex;
+    padding-left: 15px;
+    align-items: center;
+    background-color: #FCF8E8;
+    color:  #d46017;
+    cursor: pointer;
+  }
+  
+  .sideChannelBar:hover > h4 {
+    color: rgb(214, 45, 45);
+  }
+  
+  .sideChannelView{
+    font-size: 30px;
+    padding: 8px;
+  }
