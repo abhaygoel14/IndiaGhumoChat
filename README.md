@@ -14,7 +14,8 @@ India Ghumo
 An application made to assist the travelling community and bring like minded people in one server through the use of Bot, built with React,Python ,Redux, Firebase Database, Javascript and CSS.
 
 PROJECT STATUS:
-Successfully hosted to with Realtime Database using Fireabse https://indiaghumochat.web.app/but 
+Successfully hosted to with Realtime Database using Fireabse https://indiaghumochat.web.app/ 
+
 Project Screen Shot(s)
 ![image](https://user-images.githubusercontent.com/78078088/124642944-13098980-deae-11eb-85ba-771ed450e04d.png)
 ![image](https://user-images.githubusercontent.com/78078088/124643185-67ad0480-deae-11eb-8006-1a7f027151bc.png)
